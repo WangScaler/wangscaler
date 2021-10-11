@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
 - 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
-- ✍️ &nbsp; 请Fork到你自己的仓库，否则你可能会失去它。
-- ☕ &nbsp; 既然来了，就是你我有缘，可以通过下面联系我。 
+- ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
+- ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
 
 <table>
   <tbody>
@@ -52,22 +52,22 @@ Here are some ideas to get you started:
       <td width="25%" align="center">
        <a href="https://blog.scalerwang.com">博客</a>
        <br><br><br>
-       记录小知识
+       记录知识
       </td>
       <td width="25%" align="center">
        <a href="https://juejin.cn/user/493043443054494">掘金</a>
        <br><br><br>
-       写的小文章
+       技术文章
      </td>
      <td width="25%" align="center">
        <a href="https://game.scalerwang.com">游戏</a>
       <br><br><br>
-       开源小游戏
+       开源游戏
      </td>
       <td width="25%" align="center">
        <a href="https://blog.csdn.net/qq_41327483">CSDN</a>
        <br><br><br>
-       爬坑的日记
+       爬坑日记
      </td>
     </tr>
   </tbody>
@@ -78,9 +78,8 @@ Here are some ideas to get you started:
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" width="50%" >
 </p>
 
-
+<br><br><br><br>
 <p align = "center" >
-  <br><br><br><br>
   <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
 </p>
 

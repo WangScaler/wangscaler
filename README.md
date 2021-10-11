@@ -14,12 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![WangScaler's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight)
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=redical">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+<a href="https://github.com/wangscaler/myblog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/python-wenzimaoxian ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian &theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/emqx-exproto-python-sdk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/emqx-extension-examples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight" />
+</a>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight">
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight">
+</p>
+<p align = "center">
+  <img src = "https://komarev.com/ghpvc/?username=wangscaler">
+</p>

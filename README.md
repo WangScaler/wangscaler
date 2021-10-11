@@ -80,8 +80,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center" >
-  welcom to my github !  
-  <br><br>
+  <br><br><br><br>
   <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
 </p>
 

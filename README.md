@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
 </a>
 <a href="https://github.com/wangscaler/python-wenzimaoxian ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian &theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian&theme=tokyonight" />
 </a>
 <a href="https://github.com/wangscaler/emqx-exproto-python-sdk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight" />

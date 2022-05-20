@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="23%" align="center">
-       <a href="https://blog.scalerwang.com">博客</a>
+       <a href="https://blog.wangscaler.com">博客</a>
        <br><br><br>
        记录知识
       </td>
@@ -60,9 +60,9 @@ Here are some ideas to get you started:
        技术文章
      </td>
      <td width="23%" align="center">
-       <a href="https://game.scalerwang.com">游戏</a>
+       <a href="http://chat.wangscaler.com">聊天室</a>
       <br><br><br>
-       开源游戏
+       听歌聊天
      </td>
       <td width="23%" align="center">
        <a href="https://blog.csdn.net/qq_41327483">CSDN</a>
